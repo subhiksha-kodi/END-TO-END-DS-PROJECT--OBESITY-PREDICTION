@@ -4,7 +4,9 @@
 This project predicts a person’s **obesity category** based on their age, gender, height, weight, BMI, and physical activity level.  
 It uses a trained **machine learning model** (saved as `model.pkl`) and label encoders (`encoder.pkl`) for categorical features.  
 
-The application is built with **Streamlit** for interactive predictions and a **Jupyter Notebook** (`code.ipynb`) for model training, analysis, and visualization.
+The application is built with **Streamlit** for interactive predictions and a **Jupyter Notebook** (`code.ipynb`) for model training, analysis, and visualization.  
+
+👉 **Live Demo App:** [Click here to try](https://end-to-end-ds-project--obesity-prediction-6qrncdydd3uneyjmcp2m.streamlit.app/)
 
 ---
 
@@ -29,10 +31,12 @@ The application is built with **Streamlit** for interactive predictions and a **
    pip install -r requirements.txt
    ```
 
-3. Run the Streamlit app:
+3. Run the Streamlit app locally:
    ```bash
    streamlit run app.py
    ```
+
+Or use the hosted version 👉 [Live App](https://end-to-end-ds-project--obesity-prediction-6qrncdydd3uneyjmcp2m.streamlit.app/)
 
 ---
 
@@ -86,6 +90,10 @@ The application is built with **Streamlit** for interactive predictions and a **
 ---
 
 ## 🎯 Usage (Streamlit App)
+
+👉 Try it here: [Obesity Prediction Web App](https://end-to-end-ds-project--obesity-prediction-6qrncdydd3uneyjmcp2m.streamlit.app/)
+
+Or run locally:  
 
 1. Enter details:
    - Age  
